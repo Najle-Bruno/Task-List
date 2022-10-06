@@ -3,7 +3,6 @@ import { Task } from '../Task';
 import { TASK } from '../mock-tasks';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
-
 @Component({
   selector: 'app-tasks-item',
   templateUrl: './tasks-item.component.html',
@@ -11,7 +10,7 @@ import { faTimes } from '@fortawesome/free-solid-svg-icons';
 })
 export class TasksItemComponent implements OnInit {
 @Input() task: Task = TASK [0]
-faTimes = faTimes
+faTimes = faTimes;
 
   constructor() { }
 
