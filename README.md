@@ -1,3 +1,7 @@
+# Json Server 
+
+inicializar el servidor con: json-server --watch db.json
+
 # TaskList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
