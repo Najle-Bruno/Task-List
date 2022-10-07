@@ -1,0 +1,12 @@
+.about {   
+    padding: 30px;
+    text-align: center;
+    line-height: 200%;
+}
+
+.btn {
+    transform: scale(0.90);
+    padding: 5px 10px;
+    margin: 2.5px;
+    border-radius: 2.5px;
+}

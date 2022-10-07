@@ -1,0 +1,12 @@
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn {
+    background-color: darkgrey;
+    transform: scale(0.90);
+    padding: 10px 15px;
+    margin: 2.5px;
+    border-radius: 2.5px;
+}
